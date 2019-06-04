@@ -1,0 +1,4 @@
+0. Besids the dimensions of a 4x4, the framework allows for the drawing of a 3x3, 5x5, 6x6, 7x7, 8x8, and a 9x9 grid.
+1. The structure of a the game board, represented as a grid of integers, is represented in the format of a 2D array.
+2. The greet() function is called to greet the player at the start.
+3. In order to progress, the key functions of init(), draw(), move(), won(), and the lesser function of swap().
